@@ -1,6 +1,8 @@
 # Dog Breed Classifier
 This repository was built for the COE 379L class at the University of Texas at Austin.
 
+Click [THIS](https://jaeestee.github.io/dog_breed_classifier/#/) to head to the website that was built with this Repository!
+
 ## Running a personal server
 These are the steps in order to personally run the server on a local machine:
 
